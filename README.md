@@ -1,8 +1,7 @@
 # Ecommerce Management DBMS Project
 
-As a part of our University Curriculum, we made this project for Database Management Systems (DBMS) - ITE1003.<br>
-This project contains theoretical as well as implementation in SQL.<br>
-If you liked the repo do :star: it. 
+As a part of our EDGE project run by Department of Computer Science and Engineering, Islamic University, Kushtia we made this project for Database Management Systems (DBMS) using Oracle. <br>
+This project contains theoretical as well as implementation in SQL and help to manage e-commerce site's buy and sell management. .<br>
 
 ## Pre-requisite
 
@@ -349,4 +348,3 @@ Function to count number of cart items
 ```
 
 > Feel free to fork the repository and contribute to this project.
-You made it till the end. Brofist :punch:!!!
